@@ -68,7 +68,7 @@ A fast, dark-themed bill splitter that works fully offline. Split equally, by pe
 
 ### Tools
 
-JavaScript &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; Java &nbsp;·&nbsp; C &nbsp;·&nbsp; C++ &nbsp;·&nbsp; Arduino &nbsp;·&nbsp; Git
+JavaScript &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; Java &nbsp;·&nbsp; C &nbsp;·&nbsp; C++ &nbsp;·&nbsp; Arduino &nbsp;·&nbsp; ESP32 &nbsp;·&nbsp; Git
 
 <br>
 
