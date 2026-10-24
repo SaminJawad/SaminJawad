@@ -14,7 +14,7 @@
 
 ### About
 
-I build small webapps from passion to learn and explain computer science through stories. I'm drawn to research and to teaching.
+I build small webapps from passion to learn and explain computer science through stories. I'm drawn to research and teaching.
 
 <br>
 
