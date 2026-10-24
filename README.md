@@ -4,7 +4,7 @@
 
 **Computer Science · Robotics · Educator**
 
-<sub><a href="https://www.linkedin.com/in/samin-jawad/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://www.facebook.com/SaminJawadOfficial">Facebook</a> &nbsp;·&nbsp; <a href="https://www.instagram.com/samin_jawad_official/">Instagram</a></sub>
+<a href="https://www.linkedin.com/in/samin-jawad/"><img src="https://api.iconify.design/ph/linkedin-logo-light.svg?color=%232a9d8f&height=24" alt="LinkedIn" height="24"></a>     <a href="https://www.facebook.com/SaminJawadOfficial"><img src="https://api.iconify.design/ph/facebook-logo-light.svg?color=%232a9d8f&height=24" alt="Facebook" height="24"></a>     <a href="https://www.instagram.com/samin_jawad_official/"><img src="https://api.iconify.design/ph/instagram-logo-light.svg?color=%232a9d8f&height=24" alt="Instagram" height="24"></a>
 
 </div>
 
