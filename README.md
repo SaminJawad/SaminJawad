@@ -14,7 +14,7 @@
 
 ### About
 
-I build small webapps from passion to learn and explain computer science through stories. I'm drawn to research and teaching.
+I build small web apps and teach computer science through carousels, stories and practice problems. I'm drawn to research and teaching.
 
 <br>
 
@@ -26,7 +26,7 @@ I build small webapps from passion to learn and explain computer science through
 
 #### Journey of Learning Java
 
-A Java learning series: 40+ concept carousels, followed by 100 practice problems from beginner to advanced. This is the companion repository.
+A Java learning series: 40+ concept carousels, followed by 100 practice problems from beginner to advanced. This is the companion repository to the carousel series.
 
 <br>
 
