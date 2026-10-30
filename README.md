@@ -22,7 +22,7 @@ I build small web apps and teach computer science through carousels, stories and
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### Journey of Learning Java
 
@@ -37,7 +37,23 @@ A Java learning series: 40+ concept carousels, followed by 100 practice problems
 [![Code & Content](https://img.shields.io/badge/Code_%26_Content-6B6FC2?style=flat-square)](https://github.com/SaminJawad/Journey-of-Learning-Java)
 
 </td>
-<td width="50%" valign="top">
+
+<td width="33%" valign="top">
+
+#### Course Combinator
+
+Turns a university section-list PDF into ranked, clash-free class routines, all inside your browser.
+
+<br><br><br>
+<sub>JavaScript · PDF.js · Canvas API</sub>
+
+<br>
+
+[![Live](https://img.shields.io/badge/Live-D0575F?style=flat-square)](https://course-combinator.netlify.app/) [![Code](https://img.shields.io/badge/Code-2A9D8F?style=flat-square)](https://github.com/SaminJawad/Course-Combinator)
+
+</td>
+
+<td width="33%" valign="top">
 
 #### BillSplit
 
